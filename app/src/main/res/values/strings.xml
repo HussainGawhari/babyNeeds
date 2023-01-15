@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Baby Needs</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="enter_item">Enter Item</string>
+    <string name="Quantity">enter_qty</string>
+    <string name="enter_qty">quantity</string>
+    <string name="enter_color">Color</string>
+    <string name="enter_size">Size</string>
+    <string name="save_button">Save</string>
+    <string name="text_sure">Are you sure</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">Yes</string>
+    <string name="title_item">Enter Item</string>
+    <string name="update_edit">update</string>
+</resources>
